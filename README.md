@@ -14,4 +14,3 @@ Required Libraries	-	OpenCV, pyautogui, python3
 4.	To see centroid press ‘c’.
 5.	To switch on simulation press ‘p’ and give access to allow python to control the mouse if a window pops up.
 6.	Press ‘p’ to stop the simulation and ESC to end the program.
-![image](https://user-images.githubusercontent.com/55262183/118413098-84297f00-b66b-11eb-9381-34369628050b.png)
